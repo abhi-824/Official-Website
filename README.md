@@ -36,5 +36,5 @@ MERN
 3. Open The Terminal/CMD in the folder Backend.
 4. Type ```npm install``` && ```npm start``` which will download all the necessary libraries and then starts the nodejs Server. 
 5. Open the Terminal/CMD in client folder and then type ```npm install``` && ```npm start``` to do the same for React Application.
-6. Navigate to ```localhost:3000/``` to open the website.
+6. Navigate to ```localhost:5000/``` to open the website.
 7. Enjoy!!! :tada: :sparkles:
